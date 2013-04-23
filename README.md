@@ -16,7 +16,7 @@ The app requires a config file which includes what URL you wish to twang and the
 To start the app, run:
 
 '''
-node app -config config.json
+node app -c config.json
 '''
 
 ...where config.json is the name of your configuration file.
