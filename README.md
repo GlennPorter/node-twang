@@ -7,17 +7,17 @@ Twang is a Node.js package that twangs (requests!) a URL at pre-defined interval
 
 To install, run:
 
-'''
+```
 npm install twang
-'''
+```
 
 The app requires a config file which includes what URL you wish to twang and the command that will be executed if this fails to respond. Sample configuration can be found in config.sample.json.
 
 To start the app, run:
 
-'''
+```
 node app -c config.json
-'''
+```
 
 ...where config.json is the name of your configuration file.
 
