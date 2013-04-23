@@ -1,6 +1,5 @@
 {
 	"interval": 10000,
 	"url": "http://localhost:3000/version",
-	"command": "ipconfig",
-	"log": true
+	"command": "ipconfig"
 }

@@ -1,7 +1,7 @@
 {
   "name": "twang",
   "description": "Twangs a URL and executes a command if it is not available.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
     "name": "Glenn Porter",
     "email": "glenn.porter@live.com"

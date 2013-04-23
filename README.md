@@ -26,4 +26,3 @@ node app -config config.json
 * _interval_: The interval (in milliseconds) at which the app will twang the URL.
 * _url_: The URL that will be twanged!
 * _command_: The command that will be executed if the request to the URL doesn't return a response. This should be something that is either in the current directory or on the path (eg. "ipconfig" on Windows).
-* _log_: A boolean value which determines whether to output stuff.
